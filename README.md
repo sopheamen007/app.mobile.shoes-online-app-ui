@@ -1,5 +1,7 @@
 # modern_online_app
 
+![Fashion App](https://user-images.githubusercontent.com/16510597/89976761-881b1180-dc93-11ea-958b-a088dfee9050.jpg)
+
 A new Flutter project.
 
 ## Getting Started
