@@ -1,4 +1,7 @@
-# modern_online_app
+# Modern Online App UI
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/SJDOAWb-dVQ)
 
 ![Fashion App](https://user-images.githubusercontent.com/16510597/89976761-881b1180-dc93-11ea-958b-a088dfee9050.jpg)
 
