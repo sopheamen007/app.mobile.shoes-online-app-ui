@@ -8,7 +8,7 @@ class ProductDetailPage extends StatefulWidget {
   final String id;
   final String name;
   final String img;
-  final String price;
+  final int price;
   final List mulImg;
   final List sizes;
 
@@ -91,7 +91,7 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
             ),
                         child: Padding(
               padding: const EdgeInsets.only(left: 25,right: 25),
-              child: Text("\$ "+widget.price,style: TextStyle(
+              child: Text("$ ${widget.price}",style: TextStyle(
                 fontSize: 35,
                 fontWeight: FontWeight.w500,
                 height: 1.5
