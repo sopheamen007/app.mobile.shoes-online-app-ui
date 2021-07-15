@@ -3,7 +3,7 @@ List products = [
     "id" : 1,
     "img" : "adapt-bb-2-basketball-shoe-lgBfBb_1.jpg",
     "name" : "Nike Adapt BB 2.0",
-    "price" : "299.00",
+    "price" : 299.00,
     "mul_img": [
       "adapt-bb-2-basketball-shoe-lgBfBb_1.jpg",
       "adapt-bb-2-basketball-shoe-lgBfBb_2.jpg",
@@ -23,7 +23,7 @@ List products = [
     "id" : 2,
     "img" : "air-vapormax-360-shoe-KBGFwq_1.jpg",
     "name" : "Nike Air Force 1",
-    "price" : "160.00",
+    "price" : 160.00,
     "mul_img": [
       "air-vapormax-360-shoe-KBGFwq_1.jpg",
       "air-vapormax-360-shoe-KBGFwq_2.jpg",
@@ -43,7 +43,7 @@ List products = [
     "id" : 3,
     "img" : "joyride-cc-shoe-Qbt71m_1.jpg",
     "name" : "Nike Joyride CC",
-    "price" : "140.00",
+    "price" : 140.00,
     "mul_img": [
       "joyride-cc-shoe-Qbt71m_1.jpg",
       "joyride-cc-shoe-Qbt71m_2.jpg",
@@ -63,7 +63,7 @@ List products = [
     "id" : 4,
     "img" : "jordan-max-200-shoe-C2S1xN_1.jpg",
     "name" : "Jordan Max 200",
-    "price" : "125.00",
+    "price" : 125.00,
     "mul_img": [
       "jordan-max-200-shoe-C2S1xN_1.jpg",
       "jordan-max-200-shoe-C2S1xN_2.jpg",
@@ -83,7 +83,7 @@ List products = [
     "id" : 5,
     "img" : "jordan-aerospace-720-shoe-MtlBtG_1.jpg",
     "name" : "Jordan Aerospace 720",
-    "price" : "200.00",
+    "price" : 200.00,
     "mul_img": [
     "jordan-aerospace-720-shoe-MtlBtG_1.jpg",
      "jordan-aerospace-720-shoe-MtlBtG_2.jpg",
